@@ -1,3 +1,3 @@
-# Notebooks API
+# Interactive Notebook Application with Django Rest Framework
 
-This project demonstrates creating tooltips with React. You can find the article that explains this [@codewithgillis](https://codewithgillis.com/building-a-tooltip-component-with-react-hooks/).
+This project demonstrates creating interactive Notebook Application with DRF. You can find the article that explains this [@codewithgillis](https://codewithgillis.com/build-a-interactive-notebook-application-using-django-react-and-tailwind/).
